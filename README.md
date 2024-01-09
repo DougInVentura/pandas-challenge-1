@@ -1,6 +1,9 @@
 # Pandas-challenge-1
 ### Pandas challenge due Jan 8 2024
 
+#### Completed code location: In the pandas-challenge-1 repo, go into the Starter_code folder. the file
+#### module_4_challenge.ipynb is the file with the Python / Pandas code for the assignement.
+
 This exercise is in four parts.
 
 #### Part 1: Exploring the data. 
